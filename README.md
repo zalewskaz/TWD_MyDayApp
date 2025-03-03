@@ -1,5 +1,4 @@
 # TWD_MyDayApp
-MyDayApp
 This project showcases data we collected from 9th December to 12th January. During this time, we carefully tracked our daily activities and phone usage. The app is designed to provide meaningful insights into how time is spent throughout the day, highlighting patterns in app usage and daily routines.
 
 Here’s a brief overview of what each page offers:
